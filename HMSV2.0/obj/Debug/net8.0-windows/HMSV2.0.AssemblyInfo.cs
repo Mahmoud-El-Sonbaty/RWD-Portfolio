@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HMSV2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e2cc013afc26ab751a0ed6a44559244b0e0b16")]
 [assembly: System.Reflection.AssemblyProductAttribute("HMSV2.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HMSV2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
