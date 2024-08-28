@@ -1,0 +1,158 @@
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.csproj.AssemblyReference.cache
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.FinalizePayment.resources
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.FoodMenu.resources
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.Frontend.resources
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.Kitchen.resources
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.Login.resources
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.csproj.GenerateResource.cache
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.AssemblyInfoInputs.cache
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.AssemblyInfo.cs
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\HMSV2.0.exe
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\HMSV2.0.deps.json
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\HMSV2.0.runtimeconfig.json
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\HMSV2.0.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\HMSV2.0.pdb
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\MetroFramework.Design.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\MetroFramework.Fonts.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\MetroFramework.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Twilio.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\LoginManager.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\ReservationManager.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\LoginManager.pdb
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\ReservationManager.pdb
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.License.resources
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.csproj.Up2Date
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\refint\HMSV2.0.dll
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.pdb
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.genruntimeconfig.cache
+C:\Users\mahmo\source\repos\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\ref\HMSV2.0.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\HMSV2.0.exe
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\HMSV2.0.deps.json
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\HMSV2.0.runtimeconfig.json
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\HMSV2.0.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\HMSV2.0.pdb
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\MetroFramework.Design.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\MetroFramework.Fonts.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\MetroFramework.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\RestSharp.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\Twilio.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\LoginManager.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\ReservationManager.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\LoginManager.pdb
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\bin\Debug\net8.0-windows\ReservationManager.pdb
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.csproj.AssemblyReference.cache
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.FinalizePayment.resources
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.FoodMenu.resources
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.Frontend.resources
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.Kitchen.resources
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.License.resources
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2._0.Login.resources
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.csproj.GenerateResource.cache
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.AssemblyInfoInputs.cache
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.AssemblyInfo.cs
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.csproj.CoreCompileInputs.cache
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.csproj.Up2Date
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\refint\HMSV2.0.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.pdb
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\HMSV2.0.genruntimeconfig.cache
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\HMSV2.0\obj\Debug\net8.0-windows\ref\HMSV2.0.dll

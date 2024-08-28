@@ -1,0 +1,28 @@
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\bin\Debug\net8.0\ReservationManager.deps.json
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\bin\Debug\net8.0\ReservationManager.runtimeconfig.json
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\bin\Debug\net8.0\ReservationManager.dll
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\bin\Debug\net8.0\ReservationManager.pdb
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.csproj.AssemblyReference.cache
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.AssemblyInfoInputs.cache
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.AssemblyInfo.cs
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.dll
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\obj\Debug\net8.0\refint\ReservationManager.dll
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.pdb
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.genruntimeconfig.cache
+C:\Users\mahmo\source\repos\HMSV2.0\ReservationManager\obj\Debug\net8.0\ref\ReservationManager.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\bin\Debug\net8.0\ReservationManager.deps.json
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\bin\Debug\net8.0\ReservationManager.runtimeconfig.json
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\bin\Debug\net8.0\ReservationManager.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\bin\Debug\net8.0\ReservationManager.pdb
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.csproj.AssemblyReference.cache
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.AssemblyInfoInputs.cache
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.AssemblyInfo.cs
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.csproj.CoreCompileInputs.cache
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\obj\Debug\net8.0\refint\ReservationManager.dll
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.pdb
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\obj\Debug\net8.0\ReservationManager.genruntimeconfig.cache
+E:\ITI Courses\Full Stack Web Development Using .Net\Responsive Web Design\Day01\Lab\HMSV2.0\ReservationManager\obj\Debug\net8.0\ref\ReservationManager.dll
